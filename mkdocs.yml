@@ -1,0 +1,5 @@
+site_name: My Vault Site
+docs_dir: .
+site_dir: site
+theme:
+  name: material
