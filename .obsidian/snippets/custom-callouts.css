@@ -1,0 +1,62 @@
+/* General Callout Style */
+.callout {
+    border-radius: 8px; /* Smooth edges */
+    border: 2px solid #FFB0F6; /* Default pastel pink border */
+    margin: 10px 0;
+    padding: 10px;
+}
+
+/* Title Style */
+.callout-title {
+    font-weight: bold; /* Highlight title */
+    font-size: 1.2em; /* Slightly larger than regular text */
+    margin-bottom: 5px;
+    color: black; /* Default title color */
+}
+
+/* Adjust title color for dark mode */
+body.theme-dark .callout-title {
+    color: white; /* Switch to white for dark mode */
+}
+
+/* Info Callout - Soft Blue */
+.callout[data-callout="info"] {
+    background-color: #D8F3FF; /* Soft pastel blue */
+    border-color: #A3DFFF; /* Light blue accent */
+    color: #205375; /* Dark blue for readability */
+}
+
+/* Tip Callout - Pastel Green */
+.callout[data-callout="tip"] {
+    background-color: #DFFFE3; /* Light green */
+    border-color: #A6FFB5; /* Green accent */
+    color: #255930; /* Dark green for readability */
+}
+
+/* Question Callout - Pastel Pink */
+.callout[data-callout="question"] {
+    background-color: #FFD9E2; /* Soft pink */
+    border-color: #FFA6BF; /* Pink accent */
+    color: #5C1A29; /* Dark pink for readability */
+}
+
+/* Warning Callout - Pastel Orange */
+.callout[data-callout="warning"] {
+    background-color: #FFECD2; /* Soft orange */
+    border-color: #FFD6A3; /* Orange accent */
+    color: #5C3A00; /* Dark orange for readability */
+}
+
+/* Danger Callout - Lavender */
+.callout[data-callout="danger"] {
+    background-color: #EDEAFF; /* Soft lavender */
+    border-color: #C6BDF9; /* Lavender accent */
+    color: #2D275A; /* Dark purple for readability */
+}
+
+/* Example Callout - Coral Pink */
+.callout[data-callout="example"] {
+    background-color: #FFD5D9; /* Soft coral pink */
+    border-color: #FFA3B1; /* Coral accent */
+    color: #5C2B33; /* Dark coral for readability */
+}

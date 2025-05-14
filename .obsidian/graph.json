@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Book Summaries\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14999005
+      }
+    },
+    {
+      "query": "path:Permanent  ",
+      "color": {
+        "a": 1,
+        "rgb": 16756982
+      }
+    },
+    {
+      "query": "path:Inbox  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:Clippings  ",
+      "color": {
+        "a": 1,
+        "rgb": 14999005
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.31228373702422,
+  "lineSizeMultiplier": 0.97318339100346,
+  "collapse-forces": false,
+  "centerStrength": 0.953287197231834,
+  "repelStrength": 18.9273356401384,
+  "linkStrength": 1,
+  "linkDistance": 68,
+  "scale": 0.34069171501889955,
+  "close": true
+}

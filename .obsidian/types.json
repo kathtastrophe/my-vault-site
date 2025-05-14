@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "author": "text",
+    "published": "date",
+    "release date": "date"
+  }
+}

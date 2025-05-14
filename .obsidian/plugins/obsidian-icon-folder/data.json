@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCar",
+      "LiScale",
+      "LiClipboardPen",
+      "LiBookOpen",
+      "LiCheckCircle"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Clippings": "LiScissors",
+  "Inbox": "LiInbox",
+  "Media": "LiCamera",
+  "Permanent": "LiBrain",
+  "Permanent/Productivity": "LiBatteryFull",
+  "Permanent/Psychology + Neurology": "LiHandHeart",
+  "Clippings/Processed": "LiCheckCircle",
+  "Permanent/Personal Notes": "LiHouse",
+  "Permanent/Obsidian": "LiActivitySquare",
+  "Permanent/Other Learning": "LiClipboardPen",
+  "Permanent/Politics & History": "LiScale",
+  "Inbox/Parked": "LiCar",
+  "Book & Media Summaries": "LiBookOpen"
+}

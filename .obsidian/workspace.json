@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "85a544ca9341eac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0011be7ab2e973a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da56c83af9fd6e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/Politics & History/Big Questions - Next Actions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Big Questions - Next Actions"
+            }
+          },
+          {
+            "id": "a91e93b9dadc384a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Home/Big Questions.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Big Questions"
+            }
+          },
+          {
+            "id": "1a45864e17ae8a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/Politics & History/nazi propaganda.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "nazi propaganda"
+            }
+          },
+          {
+            "id": "896859cad7e4b078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Big Questions MoC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Big Questions MoC"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1318836cc3b254b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7cc1b10ce41388f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03cff13cf534da86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01c23e9555429185",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Poverty",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "812b95e667c727f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "174464f04a1105b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f4c6853dc18d98e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f896755848cdf33f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Permanent/Psychology + Neurology/Highly Sensitive Person (HSP).md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Highly Sensitive Person (HSP)"
+            }
+          },
+          {
+            "id": "d083824523c1c6f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/Manufacturing Consent - Noam Chomsky, Edward S Herman.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Manufacturing Consent - Noam Chomsky, Edward S Herman"
+            }
+          },
+          {
+            "id": "f682afe7bafbb5aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "420de9636beca0fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Book Summaries/Sedating Elaine - Dawn Winter.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sedating Elaine - Dawn Winter"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1a45864e17ae8a5f",
+  "lastOpenFiles": [
+    "Permanent/Politics & History/nationalism.md",
+    "Permanent/Politics & History/nazi propaganda.md",
+    "Permanent/Politics & History/the cause of ideological shifts.md",
+    "Permanent/Politics & History/Red Vienna narrative flip.md",
+    "_Home/Start Here.md",
+    "Permanent/Psychology + Neurology/Highly Sensitive Person (HSP).md",
+    "Media/bear and duck surfing 1.jpg",
+    "Permanent/Obsidian/Vault formatting.md",
+    "_Home/Big Questions.md",
+    "Permanent/Personal Notes/2024-12-01 - Meal Planning.md",
+    "Permanent/Personal Notes/2024-11-25 - Meal Planning.md",
+    "Permanent/Personal Notes/2024-11-16 - Meal Planning.md",
+    "Permanent/Other Learning/Why food doesn't enter the lungs (working title).md",
+    "Permanent/Other Learning/Reproduction as a doubling of the self.md",
+    "_Home",
+    "Permanent/Other Learning/the shame of motherhood.md",
+    "Inbox/Policing The Crisis - Stuart Hall.md",
+    "Permanent/Politics & History/Big Questions - Next Actions.md",
+    "Book & Media Summaries/Technofeudalism - Yanis Varoufakis.md",
+    "Book & Media Summaries/Modern times (film) - Charlie Chaplin.md",
+    "Permanent/Obsidian/Templates/Film Summary Template.md",
+    "Permanent/Obsidian/Templates/Book Summary Template.md",
+    "Permanent/Politics & History/the power dynamics of wealth.md",
+    "Permanent/Politics & History/vilification of disabled people.md",
+    "Permanent/Politics & History/winner vs loser mentality.md",
+    "Permanent/Politics & History/Technofeudalism.md",
+    "Permanent/Politics & History/Modern power structures.md",
+    "Inbox/Parked",
+    "Permanent/Politics & History/propaganda model.md",
+    "piano.gif",
+    "Media/pixel coin 1.jpg",
+    "Media/trump.gif",
+    "Media/fancy milkshakes.jpg",
+    "Media/Pasted image 20250326110605.png",
+    "Pasted image 20250326074123.png",
+    "Permanent/Politics & History",
+    "Media/Pasted image 20250322162124.png",
+    "Media/Pasted image 20250322162050.png",
+    "Media/Pasted image 20250322100813.png",
+    "Inbox/Organising Doppelganger Notes.canvas",
+    "Media/Notebook - Naomi Klein - Doppelganger_ A Trip into the Mirror World-Farrar, Straus and Giroux (2023)-2025-02-28-10-44.pdf",
+    "Media/brainsci-14-01236-with-cover 1.pdf",
+    "Media/TheMythoftheVaginalOrgasm.pdf",
+    "Media/Katherine Rowland - The Pleasure Gap_ American Women & the Unfinished Sexual Revolution-Seal Press (2020).pdf",
+    "Media/brainsci-14-01236-with-cover.pdf",
+    "Permanent/Other Learning",
+    "Media/maladaptive thinking.docx.pdf",
+    "Inbox/Areas of self.canvas"
+  ]
+}

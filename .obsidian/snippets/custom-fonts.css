@@ -1,0 +1,66 @@
+/* Embed the Monoton font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+/* Editor Heading Styles */
+.cm-header-1 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 5em !important; /* Increased size */
+    color: #FF6F61 !important; /* Soft coral pink */
+}
+.cm-header-2 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 4.5em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+.cm-header-3 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 4em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+.cm-header-4 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 3.5em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+.cm-header-5 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 3em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+.cm-header-6 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 2.5em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+
+/* Markdown Preview Heading Styles */
+.markdown-preview-view h1 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 5em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+.markdown-preview-view h2 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 4.5em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+.markdown-preview-view h3 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 4em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+.markdown-preview-view h4 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 3.5em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+.markdown-preview-view h5 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 3em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
+.markdown-preview-view h6 {
+    font-family: 'Monoton', cursive !important;
+    font-size: 2.5em !important; /* Increased size */
+    color: #FF6F61 !important;
+}
